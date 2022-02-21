@@ -11,7 +11,7 @@ require (
 	go.opentelemetry.io/collector/model v0.37.1-0.20211026180946-46c8e2290e45
 	go.opentelemetry.io/otel v1.0.1
 	go.uber.org/multierr v1.7.0
-	go.uber.org/zap v1.19.1
+	go.uber.org/zap v1.21.0
 )
 
 require (
