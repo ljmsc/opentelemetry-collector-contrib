@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/stretchr/testify v1.7.0
-	go.elastic.co/apm v1.14.0
+	go.elastic.co/apm v1.15.0
 	go.elastic.co/fastjson v1.1.0
 	go.opentelemetry.io/collector v0.37.1-0.20211026180946-46c8e2290e45
 	go.opentelemetry.io/collector/model v0.37.1-0.20211026180946-46c8e2290e45
