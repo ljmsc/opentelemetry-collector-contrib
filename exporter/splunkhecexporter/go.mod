@@ -11,11 +11,12 @@ require (
 	go.opentelemetry.io/collector v0.37.1-0.20211026180946-46c8e2290e45
 	go.opentelemetry.io/collector/model v0.37.1-0.20211026180946-46c8e2290e45
 	go.uber.org/multierr v1.7.0
-	go.uber.org/zap v1.19.1
+	go.uber.org/zap v1.21.0
 	google.golang.org/protobuf v1.27.1
 )
 
 require (
+	github.com/benbjohnson/clock v1.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
