@@ -11,7 +11,7 @@ require (
 	go.opencensus.io v0.23.0
 	go.opentelemetry.io/collector v0.50.0
 	go.opentelemetry.io/collector/pdata v0.50.0
-	go.opentelemetry.io/collector/semconv v0.50.0
+	go.opentelemetry.io/collector/semconv v0.52.0
 	go.uber.org/multierr v1.8.0
 	go.uber.org/zap v1.21.0
 	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa
